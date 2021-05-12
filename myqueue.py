@@ -19,7 +19,7 @@ class MyQueue:
 q = MyQueue(1)
 q.enqueue(2)
 q.enqueue(3)
-ext : Maps and Hashing in 3
+
 # Test peek
 # Should be 1
 print(q.peek())
